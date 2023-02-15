@@ -23,7 +23,7 @@ st.title('Dynamic PCU estimation - Group5')
 # # Importing the raw data
 
 st.header('The input data provided')
-df = pd.read_excel('/Users/bikulborthakur/Downloads/submission/traffic_data.xlsx')
+df = pd.read_excel('traffic_data.xlsx')
 df
 
 #df.columns
